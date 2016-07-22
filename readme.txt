@@ -4,4 +4,4 @@ hello
 
 new hello
 today
-str
+str + aaa
