@@ -4,4 +4,4 @@ hello
 
 new hello
 
-str
+str + me
