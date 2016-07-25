@@ -15,8 +15,9 @@ class UserController extends Controller {
         }
         else
         {
-            setcookie("myname","tongkun",time()+20,"/");
-            echo $_COOKIE["myname"];
+            //setcookie("myname","tongkun",time()+20,"/");
+            //echo $_COOKIE["myname"];
+            
         }
 
         $this->theme("5000")->display();

@@ -16,4 +16,5 @@ return array(
     'URL_ROUTE_RULES'=>array(
         'login' => 'User/login',
     ),
+    'LOAD_EXT_CONFIG' => 'c_login',
 );

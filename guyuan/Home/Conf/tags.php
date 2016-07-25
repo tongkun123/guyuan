@@ -6,5 +6,5 @@
  * Time: 16:23
  */
 return array(
-    'view_end'=>array('Home\\Behaviors\\NavBehavior'),
+    'app_begin'=>array('Home\\Behaviors\\NavBehavior','Home\\Behaviors\\UserBehavior'),
 );

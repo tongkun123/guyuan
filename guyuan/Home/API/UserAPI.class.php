@@ -13,6 +13,17 @@ class UserAPI
     {
         //echo "我是UserAPI";
     }
+    function isLogin()
+    {
+        $get_coookie=$_COOKIE['userin'];
+        if (!$get_coookie) return false;
+        $get_user_log=unserialize($get_coookie);
+        if (!$get_user_log) return false;
+        if ($get_user_log->user_id && intval($get_user_log->user_id)>0)
+        {
+            return true;
+        }
+    }
     function login()
     {
         $getUsername =  I("post.txtUsername","","/^\w{6,20}$/");
@@ -30,7 +41,12 @@ class UserAPI
                 $user_pwd=$result[0]["user_pwd"];
                 if(md5($getUserpwd)==$user_pwd)
                 {
-                    echo "登录成功";
+                    $this->actionInfo='echo "登录成功";';
+                    $user_log = new \stdClass();
+                    $user_log->user_id = $result[0]["user_id"];
+                    $user_log->user_name = $getUsername;
+                    setcookie("userin",serialize($user_log),time()+3600,"/");
+                    $this->actionInfo="header('location:/Home/index');";
                     return;
                 }
                 else

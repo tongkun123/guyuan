@@ -9,6 +9,6 @@ namespace Home\Behaviors;
 class NavBehavior extends \Think\Behavior{
     //行为执行入口
     public function run(&$param){
-        echo "我的钩子";
+        //echo "我的钩子";
     }
 }
