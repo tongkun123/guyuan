@@ -13,7 +13,8 @@ class UserAPI
     {
         //echo "我是UserAPI";
     }
-    function isLogin()
+    //获取用户登录后的信息对象
+    function getUser()
     {
         $get_coookie=$_COOKIE['userin'];
         if (!$get_coookie) return false;
@@ -21,8 +22,17 @@ class UserAPI
         if (!$get_user_log) return false;
         if ($get_user_log->user_id && intval($get_user_log->user_id)>0)
         {
+            return $get_user_log;
+        }
+        return false;
+    }
+    function isLogin()
+    {
+        if ($this->getUser())
+        {
             return true;
         }
+        return false;
     }
     function login()
     {
@@ -46,7 +56,15 @@ class UserAPI
                     $user_log->user_id = $result[0]["user_id"];
                     $user_log->user_name = $getUsername;
                     setcookie("userin",serialize($user_log),time()+3600,"/");
-                    $this->actionInfo="header('location:/Home/index');";
+                    if (I("get.from")!="")
+                    {
+                        $this->actionInfo="gotoUrl('".I("get.from")."');";
+                    }
+                    else
+                    {
+                        $this->actionInfo="header('location:/Home/index');";
+                    }
+
                     return;
                 }
                 else

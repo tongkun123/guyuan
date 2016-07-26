@@ -8,6 +8,7 @@ class UserController extends Controller {
         {
             $userAPI=new UserAPI();
             $userAPI->login();
+
             if ($userAPI->actionInfo!="")
             {
                 eval($userAPI->actionInfo);
