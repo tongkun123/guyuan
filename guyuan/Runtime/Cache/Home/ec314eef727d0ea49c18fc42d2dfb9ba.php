@@ -44,7 +44,7 @@
 <li><a href="?do=logout">注销</a></li>
 <?php else: ?>
 <li><a href="/Home/login">登录</a></li>
-<li><a>注册</a></li>
+<li><a href="/Home/reg">注册</a></li>
 <?php endif; ?>
             </ul>
         </div><!-- /.navbar-collapse -->
@@ -53,8 +53,6 @@
 
 
     <div class="container">
-
-
         <form method="post">
             <div class="form-group">
                 <label >用户名:</label>
@@ -64,6 +62,12 @@
                 <label >密码:</label>
                 <input type="password" class="form-control" name="txtPwd" id="txtPwd" placeholder="填入密码">
             </div>
+            <div class="form-inline">
+                <label >验证码:</label>
+                <input type="text" class="form-control" name="txtCode" id="txtCode" placeholder="填入验证码">
+                <img src="/Home/Temp/valiCode" style="height: 40px;width: 160px;cursor: pointer"
+                onclick="this.src='/Home/Temp/valiCode?aa='+Math.random();"/>
+            </div>
             <div class="checkbox">
                 <label>
                     <input type="checkbox" name="saveUser">保存一周
@@ -72,7 +76,6 @@
             <button type="submit" class="btn btn-default">登录</button>
             <span style="color:red"><?php echo ($errorInfo); ?></span>
         </form>
-
     </div>
 
 <hr/>

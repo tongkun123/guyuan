@@ -15,6 +15,8 @@ return array(
     'URL_ROUTER_ON'   => true,
     'URL_ROUTE_RULES'=>array(
         'login' => 'User/login',
+        'reg' => 'User/reg',
     ),
     'LOAD_EXT_CONFIG' => 'c_login',
+    'ENCRYPT_KEY' => "123456" //加密用户cookie秘钥
 );

@@ -7,6 +7,6 @@
  */
 namespace Home\Model;
 use Think\Model;
-class UserModel extends BaseModel {
-    protected $tableName = 'user';
+class BaseModel extends Model {
+    
 }
