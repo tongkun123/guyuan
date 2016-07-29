@@ -1,0 +1,59 @@
+<extend name="5000/Index/Base" />
+<block name="customer">
+    <style>
+        .media{margin-bottom: 30px;border-bottom: solid 1px #ddd;}
+    </style>
+    <script>
+        var detail_data=[
+          <foreach name="info_data_detail" item="info">
+                [{$info.info_id},"{$info.im_key}","{$info.im_value}"],
+           </foreach>
+                [-1,"",""]//防止低版本浏览器以（,）结尾报错
+        ];
+        function getMeta(info_id,im_key,key_name,def_val) {
+            for(var i=0;i<detail_data.length;i++)
+            {
+                if (detail_data[i][0]==info_id && detail_data[i][1]==im_key)
+                {
+                    return key_name+detail_data[i][2];
+                }
+            }
+            return key_name+def_val;
+        }
+
+    </script>
+    <div class="container">
+        <div class="col-md-8 column">
+            <foreach name="info_data_main" item="info">
+                <div class="row">
+                    <div class="media">
+                        <div class="media-left media-middle">
+                            <a href="#">
+                                <img class="media-object"
+                                     src="__PUBLIC__/images/php.png" alt="..." style="width:80px;height:80px">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h4 class="media-heading">{$info.info_title}</h4>
+
+                            <div class="well">{$info.info_des}</div>
+                            <p>
+                                <span><script>document.write(getMeta({$info.info_id},"views","点击量:",0));</script></span>  <span><script>document.write(getMeta({$info.info_id},"review","评论数:",0));</script></span>
+                            </p>
+                        </div>
+                    </div>
+
+                </div>
+            </foreach>
+
+            <div class="pagination">
+                {$pagebar}
+            </div>
+        </div>
+        <div class="col-md-8 column">
+        </div>
+    </div>
+
+
+
+</block>

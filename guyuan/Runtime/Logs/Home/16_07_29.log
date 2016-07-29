@@ -1,0 +1,2731 @@
+[ 2016-07-29T10:09:18+08:00 ] 127.0.0.1 /index.php/Home/Info/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000567s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000655s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002718s ]
+
+[ 2016-07-29T10:09:27+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000851s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000913s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004195s ]
+
+[ 2016-07-29T10:09:32+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001899s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.001165s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006115s ]
+
+[ 2016-07-29T10:09:36+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000561s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002424s ]
+
+[ 2016-07-29T10:09:41+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000475s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002273s ]
+
+[ 2016-07-29T10:10:05+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000526s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000536s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001547s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002788s ]
+
+[ 2016-07-29T10:10:07+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002063s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.001474s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006609s ]
+
+[ 2016-07-29T10:10:13+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000561s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002681s ]
+
+[ 2016-07-29T10:10:43+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000642s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002781s ]
+
+[ 2016-07-29T10:10:50+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001882s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000959s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004898s ]
+
+[ 2016-07-29T10:10:54+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000383s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000483s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002565s ]
+
+[ 2016-07-29T10:10:59+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000665s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000898s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001988s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004095s ]
+
+[ 2016-07-29T10:11:02+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000877s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.001045s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005026s ]
+
+[ 2016-07-29T10:11:04+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000801s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.001017s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002846s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005086s ]
+
+[ 2016-07-29T10:11:14+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000948s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000603s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000698s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002885s ]
+
+[ 2016-07-29T10:11:17+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001904s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000664s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002147s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004995s ]
+
+[ 2016-07-29T10:11:20+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000809s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.001793s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005362s ]
+
+[ 2016-07-29T10:11:26+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000591s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002637s ]
+
+[ 2016-07-29T10:11:29+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=11
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001629s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000710s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000616s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001141s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002776s ]
+
+[ 2016-07-29T10:11:39+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000907s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000943s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001762s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004015s ]
+
+[ 2016-07-29T10:12:05+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000788s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000852s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002581s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004644s ]
+
+[ 2016-07-29T10:12:12+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000505s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000579s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002846s ]
+
+[ 2016-07-29T10:12:15+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001591s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000812s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002136s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004099s ]
+
+[ 2016-07-29T10:12:18+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000569s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000614s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001689s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003217s ]
+
+[ 2016-07-29T10:12:24+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000417s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002146s ]
+
+[ 2016-07-29T10:28:50+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000933s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000680s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003271s ]
+
+[ 2016-07-29T10:28:54+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000567s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002699s ]
+
+[ 2016-07-29T10:28:57+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000522s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002465s ]
+
+[ 2016-07-29T10:29:00+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000499s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000465s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002404s ]
+
+[ 2016-07-29T10:29:03+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000423s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003516s ]
+
+[ 2016-07-29T10:29:07+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=11
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000834s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.002192s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006159s ]
+
+[ 2016-07-29T10:29:10+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000466s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002249s ]
+
+[ 2016-07-29T10:29:13+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000412s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002150s ]
+
+[ 2016-07-29T10:29:17+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000883s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000825s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000844s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004388s ]
+
+[ 2016-07-29T10:29:21+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000470s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003499s ]
+
+[ 2016-07-29T10:29:45+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000553s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000888s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003747s ]
+
+[ 2016-07-29T10:29:48+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003750s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.001383s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001877s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007547s ]
+
+[ 2016-07-29T10:29:50+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=11
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000627s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003227s ]
+
+[ 2016-07-29T10:30:05+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=11
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001713s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000924s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005361s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0139s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array D:\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Model.class.php 第 1814 行.
+SQL: SELECT * FROM `5000_info` ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (59,58,57,56,55) )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000131s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000349s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027806s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027988s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000694s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000866s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001007s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001192s ]
+
+[ 2016-07-29T10:30:13+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000512s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001174s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002434s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0036s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array D:\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Model.class.php 第 1814 行.
+SQL: SELECT * FROM `5000_info` ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (59,58,57,56,55) )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000188s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013836s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013925s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000631s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000725s ]
+
+[ 2016-07-29T10:30:16+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000835s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000826s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000684s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003341s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0033s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array D:\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Model.class.php 第 1814 行.
+SQL: SELECT * FROM `5000_info` ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (59,58,57,56,55) )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013818s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013907s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000411s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000491s ]
+
+[ 2016-07-29T10:30:21+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000394s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002408s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array D:\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Model.class.php 第 1814 行.
+SQL: SELECT * FROM `5000_info` ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (59,58,57,56,55) )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000188s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012983s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013073s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000480s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000463s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000608s ]
+
+[ 2016-07-29T10:33:47+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000694s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000740s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003443s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array D:\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Model.class.php 第 1814 行.
+SQL: SELECT * FROM `5000_info` ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0002s ]
+
+[ 2016-07-29T10:34:42+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001131s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000831s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000648s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003454s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array D:\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Model.class.php 第 1814 行.
+SQL: SELECT * FROM `5000_info` ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2016-07-29T10:34:58+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000671s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000872s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004571s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array D:\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Model.class.php 第 1814 行.
+SQL: SELECT * FROM `5000_info` ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0004s ]
+
+[ 2016-07-29T10:36:09+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001688s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.001082s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004387s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0027s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array D:\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Model.class.php 第 1814 行.
+SQL: SELECT * FROM `5000_info` ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (59,58,57,56,55) )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000176s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014586s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014675s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000554s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000481s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000606s ]
+
+[ 2016-07-29T10:36:12+08:00 ] 127.0.0.1 /index.php/Home/Info/index/type/1/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000505s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001168s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002344s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0028s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array D:\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Model.class.php 第 1814 行.
+SQL: SELECT * FROM `5000_info` ORDER BY info_id desc LIMIT 15,5   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0033s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (44,43,42,41,40) )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000168s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018118s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018262s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000578s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000673s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000808s ]
+
+[ 2016-07-29T10:36:51+08:00 ] 127.0.0.1 /index.php/Home/Info/index/type/1/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001408s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000689s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004150s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0024s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array D:\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Model.class.php 第 1814 行.
+SQL: SELECT * FROM `5000_info` ORDER BY info_id desc LIMIT 15,5   [ RunTime:0.0003s ]
+
+[ 2016-07-29T10:36:54+08:00 ] 127.0.0.1 /index.php/Home/Info/index/type/1/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000504s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002937s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array D:\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Model.class.php 第 1814 行.
+SQL: SELECT * FROM `5000_info` ORDER BY info_id desc LIMIT 15,5   [ RunTime:0.0003s ]
+
+[ 2016-07-29T10:36:56+08:00 ] 127.0.0.1 /index.php/Home/Info/index/type/1/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000470s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000384s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002211s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0035s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array D:\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Model.class.php 第 1814 行.
+SQL: SELECT * FROM `5000_info` ORDER BY info_id desc LIMIT 15,5   [ RunTime:0.0003s ]
+
+[ 2016-07-29T10:36:57+08:00 ] 127.0.0.1 /index.php/Home/Info/index/type/1/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000861s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000649s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.000990s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002821s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0026s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array D:\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Model.class.php 第 1814 行.
+SQL: SELECT * FROM `5000_info` ORDER BY info_id desc LIMIT 15,5   [ RunTime:0.0003s ]
+
+[ 2016-07-29T10:36:57+08:00 ] 127.0.0.1 /index.php/Home/Info/index/type/1/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000792s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000668s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001916s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003829s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0032s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array D:\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Model.class.php 第 1814 行.
+SQL: SELECT * FROM `5000_info` ORDER BY info_id desc LIMIT 15,5   [ RunTime:0.0003s ]
+
+[ 2016-07-29T10:39:28+08:00 ] 127.0.0.1 /index.php/Home/Info/index/type/1/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000475s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000565s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002676s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0027s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array D:\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Model.class.php 第 1814 行.
+SQL: SELECT * FROM `5000_info` ORDER BY info_id desc LIMIT 15,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (44,43,42,41,40) )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000245s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014767s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014856s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000517s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000601s ]
+
+[ 2016-07-29T10:41:36+08:00 ] 127.0.0.1 /Home/Temp/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001239s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.001903s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001753s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006787s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2016-07-29T10:41:41+08:00 ] 127.0.0.1 /Home/Temp/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000826s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000596s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003080s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2016-07-29T10:42:01+08:00 ] 127.0.0.1 /Home/Temp/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000786s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003452s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0028s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (59,58,57,56,55) )  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000640s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000732s ]
+
+[ 2016-07-29T10:42:44+08:00 ] 127.0.0.1 /Home/Temp/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000504s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002781s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0026s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (59,58,57,56,55) )  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000585s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000677s ]
+
+[ 2016-07-29T10:42:45+08:00 ] 127.0.0.1 /Home/Temp/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000652s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000623s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002939s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (59,58,57,56,55) )  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000566s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000657s ]
+
+[ 2016-07-29T10:42:46+08:00 ] 127.0.0.1 /Home/Temp/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000809s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000822s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.001088s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004979s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0026s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (59,58,57,56,55) )  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000574s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000671s ]
+
+[ 2016-07-29T10:42:51+08:00 ] 127.0.0.1 /Home/Temp/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000613s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001588s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002992s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0031s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (59,58,57,56,55) )  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000540s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000631s ]
+
+[ 2016-07-29T10:42:52+08:00 ] 127.0.0.1 /Home/Temp/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000799s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.001002s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004968s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0026s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (59,58,57,56,55) )  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000540s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000652s ]
+
+[ 2016-07-29T10:42:53+08:00 ] 127.0.0.1 /index.php/Home/Temp/test/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000602s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001557s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003025s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0028s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 25,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (8,6,5,4) )  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000564s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000656s ]
+
+[ 2016-07-29T10:43:07+08:00 ] 127.0.0.1 /index.php/Home/Temp/test/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000477s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002373s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0023s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 20,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (39,38,37,36,11) )  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000927s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001021s ]
+
+[ 2016-07-29T10:43:08+08:00 ] 127.0.0.1 /index.php/Home/Temp/test/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000533s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002943s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0026s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 5,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (54,53,52,51,50) )  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000546s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000640s ]
+
+[ 2016-07-29T10:43:14+08:00 ] 127.0.0.1 /index.php/Home/Temp/test/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000483s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002810s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0026s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 5,5   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (54,53,52,51,50) )  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000597s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000692s ]
+
+[ 2016-07-29T10:46:25+08:00 ] 127.0.0.1 /index.php/Home/Temp/test/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000689s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000891s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001843s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003698s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0024s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 5,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (54,53,52,51,50) )  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000633s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000732s ]
+
+[ 2016-07-29T10:46:28+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000807s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000931s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000889s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003593s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0042s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2016-07-29T10:48:04+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000646s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002707s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=2 ) ORDER BY info_id desc  [ RunTime:0.0003s ]
+
+[ 2016-07-29T10:48:50+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000913s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000985s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002122s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004419s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0028s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=2 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2016-07-29T10:49:09+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000535s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002552s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0028s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array D:\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Model.class.php 第 1814 行.
+SQL: SELECT * FROM `5000_info` ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0002s ]
+
+[ 2016-07-29T10:49:31+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000475s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000671s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003890s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0029s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=2 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0003s ]
+
+[ 2016-07-29T10:49:42+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000859s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000900s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.002110s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005784s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (59,58,57,56,55) )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000173s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014059s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014146s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000479s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000484s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000567s ]
+
+[ 2016-07-29T10:49:45+08:00 ] 127.0.0.1 /index.php/Home/Info/index/type/1/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000456s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000517s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002443s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0024s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 15,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (44,43,42,41,40) )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012748s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012837s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000528s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000614s ]
+
+[ 2016-07-29T10:49:46+08:00 ] 127.0.0.1 /index.php/Home/Info/index/type/1/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000798s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001031s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.001138s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002931s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005595s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 25,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (8,6,5,4) )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000193s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012872s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012961s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000505s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000590s ]
+
+[ 2016-07-29T10:50:16+08:00 ] 127.0.0.1 /index.php/Home/Info/index/type/1/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000506s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002414s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0026s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 20,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (39,38,37,36,11) )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000168s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013580s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013667s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000463s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000545s ]
+
+[ 2016-07-29T10:50:30+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000551s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002786s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0053s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=2 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000184s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015110s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000642s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000546s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000650s ]
+
+[ 2016-07-29T10:50:33+08:00 ] 127.0.0.1 /index.php/Home/Info/index/type/2/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000474s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002266s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0024s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=2 ) ORDER BY info_id desc LIMIT 5,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000170s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013300s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013388s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000479s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000596s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000678s ]
+
+[ 2016-07-29T10:50:35+08:00 ] 127.0.0.1 /index.php/Home/Info/index/type/2/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000479s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002573s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=2 ) ORDER BY info_id desc LIMIT 25,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013330s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013417s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000482s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000592s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000674s ]
+
+[ 2016-07-29T10:50:37+08:00 ] 127.0.0.1 /index.php/Home/Info/index/type/2/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000693s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002625s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0024s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=2 ) ORDER BY info_id desc LIMIT 20,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000189s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013352s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013452s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000576s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000659s ]
+
+[ 2016-07-29T10:50:50+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=11
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000834s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.001402s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004053s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0034s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=11 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000164s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014411s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014522s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000462s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000469s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000554s ]
+
+[ 2016-07-29T10:51:23+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=11
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000466s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000622s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002702s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=11 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=11 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000179s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014429s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014524s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000444s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000481s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000570s ]
+
+[ 2016-07-29T10:51:26+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000562s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002592s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004123s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0026s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=2 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=2 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014624s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014736s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000434s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000533s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000619s ]
+
+[ 2016-07-29T10:51:29+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000344s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002326s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0029s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (59,58,57,56,55) )  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000284s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017480s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017574s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000567s ]
+
+[ 2016-07-29T10:57:05+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000577s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000591s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002786s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0027s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 and info_id < 10 ) LIMIT 1   [ RunTime:0.0238s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 and info_id < 10 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (8,6,5,4) )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000133s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000350s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044578s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044769s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000758s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000941s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001021s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001215s ]
+
+[ 2016-07-29T10:57:23+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000732s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000711s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003221s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0026s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 and info_id < 30 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 and info_id < 30 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (11,8,6,5,4) )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000172s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013496s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013584s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000491s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000574s ]
+
+[ 2016-07-29T10:57:50+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000963s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003456s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0028s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 and info_id < 40 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 and info_id < 40 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (39,38,37,36,11) )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000164s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013407s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013502s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000526s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000612s ]
+
+[ 2016-07-29T13:57:09+08:00 ] 127.0.0.1 /index.php/Home/Info/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003419s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002103s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006877s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0075s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0028s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (59,58,57,56,55) )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000171s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016753s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016876s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000421s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000482s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000578s ]
+
+[ 2016-07-29T14:11:00+08:00 ] 127.0.0.1 /index.php/Home/Info/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000538s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002540s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (59,58,57,56,55) )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000191s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014594s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014709s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000530s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000612s ]
+
+[ 2016-07-29T14:11:02+08:00 ] 127.0.0.1 /index.php/Home/Info/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000702s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000870s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004009s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (59,58,57,56,55) )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014521s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014609s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000583s ]
+
+[ 2016-07-29T14:11:14+08:00 ] 127.0.0.1 /index.php/Home/Info/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000601s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000477s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002797s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (59,58,57,56,55) )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000257s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014584s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014671s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000252s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000402s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000483s ]
+
+[ 2016-07-29T14:15:15+08:00 ] 127.0.0.1 /index.php/Home/Info/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000498s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001158s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002341s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0026s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (59,58,57,56,55) )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000170s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014474s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014563s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000324s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000511s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000596s ]
+
+[ 2016-07-29T14:16:00+08:00 ] 127.0.0.1 /index.php/Home/Info/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000606s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002697s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (59,58,57,56,55) )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000168s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014846s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014936s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000497s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000579s ]
+
+[ 2016-07-29T14:17:23+08:00 ] 127.0.0.1 /index.php/Home/Info/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001084s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.001077s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005327s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0029s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (59,58,57,56,55) )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000167s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0530s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.071787s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.072046s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000731s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000911s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001219s ]
+
+[ 2016-07-29T14:17:37+08:00 ] 127.0.0.1 /index.php/Home/Info/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000542s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002444s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (59,58,57,56,55) )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014850s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014940s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000463s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000545s ]
+
+[ 2016-07-29T14:17:48+08:00 ] 127.0.0.1 /index.php/Home/Info/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000490s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000597s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002678s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (59,58,57,56,55) )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000167s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014425s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014514s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000462s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000464s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000548s ]
+
+[ 2016-07-29T14:18:51+08:00 ] 127.0.0.1 /index.php/Home/Info/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000468s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002817s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (59,58,57,56,55) )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000162s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013855s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013943s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000398s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000480s ]
+
+[ 2016-07-29T14:19:19+08:00 ] 127.0.0.1 /index.php/Home/Info/index/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000795s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002949s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0028s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 25,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (8,6,5,4) )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000168s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014330s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014421s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000463s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000546s ]
+
+[ 2016-07-29T14:19:36+08:00 ] 127.0.0.1 /index.php/Home/Info/index/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000502s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002269s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 25,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (8,6,5,4) )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000191s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014012s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014101s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000399s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000487s ]
+
+[ 2016-07-29T14:32:42+08:00 ] 127.0.0.1 /index.php/Home/Info/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000543s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000731s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003537s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0027s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (59,58,57,56,55) )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000189s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014860s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014949s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000462s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000546s ]
+
+[ 2016-07-29T14:32:48+08:00 ] 127.0.0.1 /index.php/Home/Info/index/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000657s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002878s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 25,5   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (8,6,5,4) )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000195s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017205s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017327s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000466s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000550s ]
+
+[ 2016-07-29T14:32:56+08:00 ] 127.0.0.1 /index.php/Home/Info/index/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000885s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000995s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004836s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 20,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (39,38,37,36,11) )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000170s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014810s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014901s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000408s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000493s ]
+
+[ 2016-07-29T14:33:13+08:00 ] 127.0.0.1 /index.php/Home/Info/index/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000696s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000679s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003152s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0024s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 20,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (39,38,37,36,11) )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014423s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014514s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000465s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000549s ]
+
+[ 2016-07-29T14:33:16+08:00 ] 127.0.0.1 /index.php/Home/Info/index/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000558s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000593s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002835s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 25,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (8,6,5,4) )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000168s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014320s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014411s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000461s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000545s ]
+
+[ 2016-07-29T14:33:19+08:00 ] 127.0.0.1 /index.php/Home/Info/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000347s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001105s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002091s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0026s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 5,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (54,53,52,51,50) )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014092s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014182s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000405s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000488s ]
+
+[ 2016-07-29T14:34:47+08:00 ] 127.0.0.1 /index.php/Home/Info/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000383s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000338s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001944s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 5,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (54,53,52,51,50) )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000172s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014146s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014242s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000407s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000490s ]
+
+[ 2016-07-29T14:34:48+08:00 ] 127.0.0.1 /index.php/Home/Info/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000794s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000670s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003506s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 5,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (54,53,52,51,50) )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000168s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014203s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014310s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000495s ]
+
+[ 2016-07-29T14:34:50+08:00 ] 127.0.0.1 /index.php/Home/Info/index/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000829s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000662s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004018s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0024s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 25,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (8,6,5,4) )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014082s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000491s ]
+
+[ 2016-07-29T14:37:57+08:00 ] 127.0.0.1 /index.php/Home/Info/index/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000528s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002474s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 25,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (8,6,5,4) )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000172s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015451s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015544s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000421s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000561s ]
+
+[ 2016-07-29T14:39:32+08:00 ] 127.0.0.1 /index.php/Home/Info/index/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000952s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000626s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003095s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 25,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (8,6,5,4) )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000170s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014799s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014889s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000541s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000644s ]
+
+[ 2016-07-29T14:39:45+08:00 ] 127.0.0.1 /index.php/Home/Info/index/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000605s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002841s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 20,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (39,38,37,36,11) )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000167s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014357s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014446s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000468s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000552s ]
+
+[ 2016-07-29T14:39:48+08:00 ] 127.0.0.1 /index.php/Home/Info/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000886s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000997s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005121s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0026s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 5,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (54,53,52,51,50) )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000170s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014444s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014534s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000433s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000521s ]
+
+[ 2016-07-29T14:39:50+08:00 ] 127.0.0.1 /index.php/Home/Info/index/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000935s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.001064s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005180s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0029s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 25,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (8,6,5,4) )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000170s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014212s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014312s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000402s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000494s ]
+
+[ 2016-07-29T14:43:08+08:00 ] 127.0.0.1 /index.php/Home/Info/index/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000611s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002836s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0027s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 25,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (8,6,5,4) )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000179s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015064s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015159s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000326s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000529s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000618s ]
+
+[ 2016-07-29T14:43:10+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000474s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002328s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000185s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\ec314eef727d0ea49c18fc42d2dfb9ba.php 第 42 行.
+NOTIC: [8] Undefined variable: errorInfo D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\ec314eef727d0ea49c18fc42d2dfb9ba.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026857s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026963s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000397s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000511s ]
+
+[ 2016-07-29T14:43:10+08:00 ] 127.0.0.1 /Home/Temp/valiCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000489s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002391s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001087s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001315s ]
+
+[ 2016-07-29T14:43:11+08:00 ] 127.0.0.1 /Home/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000438s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000501s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002472s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000175s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\e372026d6cba86085c169a1f8c68f21c.php 第 42 行.
+NOTIC: [8] Undefined variable: errorInfo D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\e372026d6cba86085c169a1f8c68f21c.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042602s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042699s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000486s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000578s ]
+
+[ 2016-07-29T14:43:13+08:00 ] 127.0.0.1 /Home/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000725s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001587s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003153s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000200s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\ec314eef727d0ea49c18fc42d2dfb9ba.php 第 42 行.
+NOTIC: [8] Undefined variable: errorInfo D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\ec314eef727d0ea49c18fc42d2dfb9ba.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031505s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031604s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000409s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000495s ]
+
+[ 2016-07-29T14:43:13+08:00 ] 127.0.0.1 /Home/Temp/valiCode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000546s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002587s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000585s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000729s ]
+
+[ 2016-07-29T14:43:16+08:00 ] 127.0.0.1 /Home/Temp/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000956s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.001174s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002552s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005146s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (59,58,57,56,55) )  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000729s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000885s ]
+
+[ 2016-07-29T14:43:23+08:00 ] 127.0.0.1 /Home/Info/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003574s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.001122s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002969s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008124s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0035s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (59,58,57,56,55) )  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000185s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015176s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015269s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000462s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000468s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000553s ]
+
+[ 2016-07-29T14:56:34+08:00 ] 127.0.0.1 /Home/Info/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000667s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002831s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0027s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (59,58,57,56,55) )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000175s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015072s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015161s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000423s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000552s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000641s ]
+
+[ 2016-07-29T14:56:36+08:00 ] 127.0.0.1 /index.php/Home/Info/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000598s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003200s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0031s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 5,5   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (54,53,52,51,50) )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014279s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014369s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000434s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000519s ]
+
+[ 2016-07-29T14:56:38+08:00 ] 127.0.0.1 /index.php/Home/Info/index/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000481s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002416s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 15,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (44,43,42,41,40) )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000168s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014688s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014777s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000261s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000436s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000548s ]
+
+[ 2016-07-29T14:56:39+08:00 ] 127.0.0.1 /index.php/Home/Info/index/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000801s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000518s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002768s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0023s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 25,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (8,6,5,4) )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000181s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014426s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014518s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000252s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000404s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000487s ]
+
+[ 2016-07-29T14:56:42+08:00 ] 127.0.0.1 /index.php/Home/Info/index/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000475s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002382s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 20,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (39,38,37,36,11) )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000240s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014311s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014401s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000473s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000559s ]
+
+[ 2016-07-29T14:56:43+08:00 ] 127.0.0.1 /index.php/Home/Info/index/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000482s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002401s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0026s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 25,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (8,6,5,4) )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014525s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014614s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000424s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000523s ]
+
+[ 2016-07-29T14:59:26+08:00 ] 127.0.0.1 /index.php/Home/Info/index/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000840s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000642s ]
+NOTIC: [8] Undefined index: userin D:\thinkphp_3.2.3_full\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.001362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003149s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0026s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 10,5   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (49,48,47,46,45) )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: global_user D:\thinkphp_3.2.3_full\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014606s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014695s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000540s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000628s ]
+
