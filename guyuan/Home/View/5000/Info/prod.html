@@ -5,10 +5,10 @@
     </style>
     <script>
         var detail_data=[
-          <foreach name="info_data_detail" item="info">
+                <foreach name="info_data_detail" item="info">
                 [{$info.info_id},"{$info.im_key}","{$info.im_value}"],
-           </foreach>
-                [-1,"",""]//防止低版本浏览器以（,）结尾报错
+        </foreach>
+        [-1,"",""]//防止低版本浏览器以（,）结尾报错
         ];
         function getMeta(info_id,im_key,key_name,def_val) {
             for(var i=0;i<detail_data.length;i++)
@@ -26,35 +26,35 @@
         <div class="col-md-8 column">
             <foreach name="info_data_main" item="info">
                 <div class="row">
-                    <div class="media">
-                        <div class="media-left media-middle">
+                    <div class="page-header">
+                        <h2>{$info.info_title}</h2>
+                    </div>
+                        <div class="col-md-4">
                             <a href="#">
                                 <script>document.write("<img src='"+getMeta({$info.info_id},
-                                "pimg","","__PUBLIC__/prod/none.jpg")+"'style='width:100px;height:100px'/>");</script>
+                                "pimg","","__PUBLIC__/prod/none.jpg")+"'style='width:200px;height:200px'/>");</script>
                             </a>
                         </div>
-                        <div class="media-body">
-                            <div class="page-header">
-                            <h2>{$info.info_title}</h2>
+                        <div class="col-md-8">
+
+
                             <blockquote>{$info.info_des}</blockquote>
                             <p>
-                                <small><script>document.write(getMeta({$info.info_id},"views","点击量:",0));</script></small>
-                                <small><script>document.write(getMeta({$info.info_id},"review","评论数:",0));</script></small>
+                                <span><script>document.write(getMeta({$info.info_id},"views","点击量:",0));</script></span>
+                                <span><script>document.write(getMeta({$info.info_id},"review","评论数:",0));</script></span>
                             </p>
-                            </div>
                         </div>
-                    </div>
+
 
                 </div>
             </foreach>
-            <div class="row">
-                <ul class="pagination">
-                    {$pagebar}
-                </ul>
+
+            <div class="pagination">
+                {$pagebar}
             </div>
         </div>
         <div class="col-md-4 column">
-            {:W('Info/load',array(1))}
+            {:W('Info/load',array(2))}
         </div>
     </div>
 

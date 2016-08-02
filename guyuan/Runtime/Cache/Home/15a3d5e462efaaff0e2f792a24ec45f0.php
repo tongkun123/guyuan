@@ -57,8 +57,8 @@
     </style>
     <script>
         var detail_data=[
-          <?php if(is_array($info_data_detail)): foreach($info_data_detail as $key=>$info): ?>[<?php echo ($info["info_id"]); ?>,"<?php echo ($info["im_key"]); ?>","<?php echo ($info["im_value"]); ?>"],<?php endforeach; endif; ?>
-                [-1,"",""]//防止低版本浏览器以（,）结尾报错
+                <?php if(is_array($info_data_detail)): foreach($info_data_detail as $key=>$info): ?>[<?php echo ($info["info_id"]); ?>,"<?php echo ($info["im_key"]); ?>","<?php echo ($info["im_value"]); ?>"],<?php endforeach; endif; ?>
+        [-1,"",""]//防止低版本浏览器以（,）结尾报错
         ];
         function getMeta(info_id,im_key,key_name,def_val) {
             for(var i=0;i<detail_data.length;i++)
@@ -75,34 +75,34 @@
     <div class="container">
         <div class="col-md-8 column">
             <?php if(is_array($info_data_main)): foreach($info_data_main as $key=>$info): ?><div class="row">
-                    <div class="media">
-                        <div class="media-left media-middle">
+                    <div class="page-header">
+                        <h2><?php echo ($info["info_title"]); ?></h2>
+                    </div>
+                        <div class="col-md-4">
                             <a href="#">
                                 <script>document.write("<img src='"+getMeta(<?php echo ($info["info_id"]); ?>,
-                                "pimg","","/Public/prod/none.jpg")+"'style='width:100px;height:100px'/>");</script>
+                                "pimg","","/Public/prod/none.jpg")+"'style='width:200px;height:200px'/>");</script>
                             </a>
                         </div>
-                        <div class="media-body">
-                            <div class="page-header">
-                            <h2><?php echo ($info["info_title"]); ?></h2>
+                        <div class="col-md-8">
+
+
                             <blockquote><?php echo ($info["info_des"]); ?></blockquote>
                             <p>
-                                <small><script>document.write(getMeta(<?php echo ($info["info_id"]); ?>,"views","点击量:",0));</script></small>
-                                <small><script>document.write(getMeta(<?php echo ($info["info_id"]); ?>,"review","评论数:",0));</script></small>
+                                <span><script>document.write(getMeta(<?php echo ($info["info_id"]); ?>,"views","点击量:",0));</script></span>
+                                <span><script>document.write(getMeta(<?php echo ($info["info_id"]); ?>,"review","评论数:",0));</script></span>
                             </p>
-                            </div>
                         </div>
-                    </div>
+
 
                 </div><?php endforeach; endif; ?>
-            <div class="row">
-                <ul class="pagination">
-                    <?php echo ($pagebar); ?>
-                </ul>
+
+            <div class="pagination">
+                <?php echo ($pagebar); ?>
             </div>
         </div>
         <div class="col-md-4 column">
-            <?php echo W('Info/load',array(1));?>
+            <?php echo W('Info/load',array(2));?>
         </div>
     </div>
 
