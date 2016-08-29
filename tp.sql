@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50520
 File Encoding         : 65001
 
-Date: 2016-08-02 17:48:07
+Date: 2016-08-29 17:08:28
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -93,26 +93,29 @@ CREATE TABLE `5000_info_meta` (
   `info_id` int(11) DEFAULT NULL,
   `im_key` varchar(200) DEFAULT NULL,
   `im_value` text,
+  `im_pid` int(11) DEFAULT '0',
   PRIMARY KEY (`im_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=23 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=25 DEFAULT CHARSET=utf8;
 
 -- ----------------------------
 -- Records of 5000_info_meta
 -- ----------------------------
-INSERT INTO `5000_info_meta` VALUES ('5', '4', 'review', '1');
-INSERT INTO `5000_info_meta` VALUES ('6', '4', 'views', '20');
-INSERT INTO `5000_info_meta` VALUES ('7', '4', 'sourcelink', 'www.jtthink.com');
-INSERT INTO `5000_info_meta` VALUES ('8', '5', 'views', '1');
-INSERT INTO `5000_info_meta` VALUES ('9', '61', 'pimg', '/Public/prod/1.jpg');
-INSERT INTO `5000_info_meta` VALUES ('10', '62', 'pimg', '/Public/prod/2.jpg');
-INSERT INTO `5000_info_meta` VALUES ('11', '63', 'pimg', '/Public/prod/3.jpg');
-INSERT INTO `5000_info_meta` VALUES ('12', '64', 'pimg', '/Public/prod/4.gif');
-INSERT INTO `5000_info_meta` VALUES ('13', '65', 'pimg', '/Public/prod/5.jpg');
-INSERT INTO `5000_info_meta` VALUES ('14', '65', 'price1', '420');
-INSERT INTO `5000_info_meta` VALUES ('15', '65', 'views', '1200');
-INSERT INTO `5000_info_meta` VALUES ('16', '65', 'price2', '360');
-INSERT INTO `5000_info_meta` VALUES ('17', '65', 'ptype', '250g');
-INSERT INTO `5000_info_meta` VALUES ('18', '65', 'ptype', '500g');
+INSERT INTO `5000_info_meta` VALUES ('5', '4', 'review', '1', '0');
+INSERT INTO `5000_info_meta` VALUES ('6', '4', 'views', '20', '0');
+INSERT INTO `5000_info_meta` VALUES ('7', '4', 'sourcelink', 'www.jtthink.com', '0');
+INSERT INTO `5000_info_meta` VALUES ('8', '5', 'views', '1', '0');
+INSERT INTO `5000_info_meta` VALUES ('9', '61', 'pimg', '/Public/prod/1.jpg', '0');
+INSERT INTO `5000_info_meta` VALUES ('10', '62', 'pimg', '/Public/prod/2.jpg', '0');
+INSERT INTO `5000_info_meta` VALUES ('11', '63', 'pimg', '/Public/prod/3.jpg', '0');
+INSERT INTO `5000_info_meta` VALUES ('12', '64', 'pimg', '/Public/prod/4.gif', '0');
+INSERT INTO `5000_info_meta` VALUES ('13', '65', 'pimg', '/Public/prod/5.jpg', '0');
+INSERT INTO `5000_info_meta` VALUES ('14', '65', 'price1', '420', '0');
+INSERT INTO `5000_info_meta` VALUES ('15', '65', 'views', '1200', '0');
+INSERT INTO `5000_info_meta` VALUES ('16', '65', 'price2', '360', '0');
+INSERT INTO `5000_info_meta` VALUES ('17', '65', 'ptype', '250g', '0');
+INSERT INTO `5000_info_meta` VALUES ('18', '65', 'ptype', '500g', '0');
+INSERT INTO `5000_info_meta` VALUES ('23', '65', 'price2', '105', '18');
+INSERT INTO `5000_info_meta` VALUES ('24', '65', 'price1', '50', '18');
 
 -- ----------------------------
 -- Table structure for 5000_info_widget
