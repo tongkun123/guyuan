@@ -14,40 +14,77 @@
         .pmetalist li:hover{background: #f5f5f5;cursor: pointer;}
         .pmetalist .pm_name{border: 0;}
         .pmetalist .pm_name:hover{background: none;}
+        .choseli{border-color: red;}
     </style>
     <script type="text/html" id="tpl_ptype">
-        <li class="list-group-item ">
-            <span><a href="#">{ptype}</a> </span>
+        <li class="list-group-item ptype" im_id="{im_id}">
+            <span><a href="#"  >{ptype}</a> </span>
         </li>
     </script>
     <script>
         var detail_data=[
                 <foreach name="info_data_detail" item="info">
-                [{$info.info_id},"{$info.im_key}","{$info.im_value}"],
+                [{$info.info_id},"{$info.im_key}","{$info.im_value}",{$info.im_pid},{$info.im_id}],
         </foreach>
         [-1,"",""]//防止低版本浏览器以（,）结尾报错
         ];
+        $(document).ready(function () {
+            $(".ptype").click(function () {
+                //点击规格时，切换价格
+                $(this).parents("ul").find("li").css("border-color","#ddd");
+                $(this).css("border-color","red");
+                var im_id=$(this).attr("im_id");//属性主键ID
+                var get_meta1=getMetaByPID(im_id, "price1");//市场价
+                var get_meta2=getMetaByPID(im_id, "price2");//优惠价
+
+                if (parseFloat(get_meta1)>0 && parseFloat(get_meta2)>0)
+                {
+                    $("#meta_price1").html("￥"+"<del>"+get_meta1+"</del>");
+                    $("#meta_price2").html("￥"+get_meta2);
+                }
+                else
+                {
+                    $("#meta_price1").html("￥"+"<del>"+getMeta({$info.info_id},"price1",0)+"</del>");
+                    $("#meta_price2").html("￥"+getMeta({$info.info_id},"price2",0));
+                }
+
+                return false;
+            })
+        })
+        function getMetaByPID(im_id, im_key)//根据父ID获取属性值
+        {
+            for(var i=0;i<detail_data.length;i++)
+            {
+                if ( parseInt(detail_data[i][3])==im_id && detail_data[i][1] == im_key)
+                {
+                    return detail_data[i][2];
+                }
+            }
+            return 0;
+        }
         function getMetaList(info_id,im_key,tpl_id) {
             var result="";
             var tpl_content=$("#"+tpl_id).html();//模板内容
+
             for(var i=0;i<detail_data.length;i++)
             {
                 if (detail_data[i][0]==info_id && detail_data[i][1]==im_key)
                 {
-                    result+=tpl_content.replace("{"+im_key+"}", detail_data[i][2]);
+                    result+=tpl_content.replace("{"+im_key+"}", detail_data[i][2])
+                    .replace("{im_id}",detail_data[i][4])
                 }
             }
             return result;
         }
-        function getMeta(info_id,im_key,key_name,def_val) {
+        function getMeta(info_id,im_key,def_val) {
             for(var i=0;i<detail_data.length;i++)
             {
-                if (detail_data[i][0]==info_id && detail_data[i][1]==im_key)
+                if (detail_data[i][0]==info_id && detail_data[i][1]==im_key && parseInt(detail_data[i][3])==0)
                 {
-                    return key_name+detail_data[i][2];
+                    return detail_data[i][2];
                 }
             }
-            return key_name+def_val;
+            return def_val;
         }
 
     </script>
@@ -68,11 +105,11 @@
                         <ul class="well list-group price">
                             <li class="list-group-item">
                                 <span class="text-muted">市场价：</span>
-                                <span >￥<del><script>document.write(getMeta({$info.info_id},"price1","",0));</script></del></span>
+                                <span id="meta_price1">￥<del><script>document.write(getMeta({$info.info_id},"price1",0));</script></del></span>
                             </li>
                             <li class="list-group-item">
                                 <span class="text-muted">优惠价：</span>
-                                <span class="text-danger" style="font-size: 30px">￥<script>document.write(getMeta({$info.info_id},"price2","",0));</script></span>
+                                <span class="text-danger" style="font-size: 30px" id="meta_price2">￥<script>document.write(getMeta({$info.info_id},"price2",0));</script></span>
                             </li>
                         </ul>
 
