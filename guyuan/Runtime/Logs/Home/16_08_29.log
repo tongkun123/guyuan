@@ -1,0 +1,498 @@
+[ 2016-08-29T15:53:38+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001614s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.002753s ]
+NOTIC: [8] Undefined index: userin C:\guyuan\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.003661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008380s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000214s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0092s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0009s ]
+NOTIC: [8] Undefined variable: global_user C:\guyuan\guyuan\Runtime\Cache\Home\4f764e6cb85686c14a44e2995f39ec3c.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.053265s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053400s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001188s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001302s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001347s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001508s ]
+
+[ 2016-08-29T15:53:57+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001110s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.001856s ]
+NOTIC: [8] Undefined index: userin C:\guyuan\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.003382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006620s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0087s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=2 ) LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=2 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (65,64,63,62,61) )  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000219s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: global_user C:\guyuan\guyuan\Runtime\Cache\Home\15a3d5e462efaaff0e2f792a24ec45f0.php 第 42 行.
+SQL: SHOW COLUMNS FROM `5000_info_widget` [ RunTime:0.0079s ]
+SQL: SELECT * FROM `5000_info_widget` WHERE ( wig_id=2 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=2 ) ORDER BY info_id desc LIMIT 5   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.040459s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005321s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005481s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001247s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001356s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006967s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005481s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.000250s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001014s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001138s ]
+
+[ 2016-08-29T15:56:07+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001162s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.001856s ]
+NOTIC: [8] Undefined index: userin C:\guyuan\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.003256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006559s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0064s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=1 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (59,58,57,56,55) )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000252s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: global_user C:\guyuan\guyuan\Runtime\Cache\Home\dd91f665b84972ae5be7fe3e09d380b7.php 第 42 行.
+SQL: SHOW COLUMNS FROM `5000_info_widget` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `5000_info_widget` WHERE ( wig_id=1 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=1 ) ORDER BY info_id desc LIMIT 5   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.038801s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004694s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004852s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000757s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000871s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005820s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004852s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.000243s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000995s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001103s ]
+
+[ 2016-08-29T15:56:08+08:00 ] 127.0.0.1 /index.php/Home/Info/?type=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000793s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000943s ]
+NOTIC: [8] Undefined index: userin C:\guyuan\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002169s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004194s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0061s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=2 ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=2 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (65,64,63,62,61) )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000241s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: global_user C:\guyuan\guyuan\Runtime\Cache\Home\15a3d5e462efaaff0e2f792a24ec45f0.php 第 42 行.
+SQL: SHOW COLUMNS FROM `5000_info_widget` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `5000_info_widget` WHERE ( wig_id=2 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=2 ) ORDER BY info_id desc LIMIT 5   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.034394s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004850s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005029s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000644s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000791s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005029s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.000272s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000892s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001009s ]
+
+[ 2016-08-29T16:04:18+08:00 ] 127.0.0.1 /index.php/Home/Info/detail/pid/65
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001228s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.002001s ]
+NOTIC: [8] Undefined index: userin C:\guyuan\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.003341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006878s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0063s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=2 and  info_id=65 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=2 and  info_id=65 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0061s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (65) )  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000290s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: global_user C:\guyuan\guyuan\Runtime\Cache\Home\91c7f06e6b5e82d67e7fbee9e6c78672.php 第 42 行.
+SQL: SHOW COLUMNS FROM `5000_info_widget` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `5000_info_widget` WHERE ( wig_id=2 ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.030363s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006602s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006789s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000819s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000932s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007825s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006789s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.000263s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001117s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001229s ]
+
+[ 2016-08-29T16:25:03+08:00 ] 127.0.0.1 /index.php/Home/Info/detail/pid/65
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001177s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.001812s ]
+NOTIC: [8] Undefined index: userin C:\guyuan\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.003398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006711s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0062s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=2 and  info_id=65 ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=2 and  info_id=65 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0061s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (65) )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000235s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined variable: global_user C:\guyuan\guyuan\Runtime\Cache\Home\91c7f06e6b5e82d67e7fbee9e6c78672.php 第 42 行.
+SQL: SHOW COLUMNS FROM `5000_info_widget` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `5000_info_widget` WHERE ( wig_id=2 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=2 ) ORDER BY info_id desc LIMIT 5   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.038057s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005169s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005320s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001237s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001352s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006810s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005320s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.000253s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001138s ]
+
+[ 2016-08-29T16:26:01+08:00 ] 127.0.0.1 /index.php/Home/Info/detail/pid/65
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001403s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.001776s ]
+NOTIC: [8] Undefined index: userin C:\guyuan\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.003472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006495s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0070s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=2 and  info_id=65 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=2 and  info_id=65 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (65) )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000215s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0061s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: global_user C:\guyuan\guyuan\Runtime\Cache\Home\91c7f06e6b5e82d67e7fbee9e6c78672.php 第 42 行.
+SQL: SHOW COLUMNS FROM `5000_info_widget` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `5000_info_widget` WHERE ( wig_id=2 ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000109s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.027169s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004869s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004994s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000527s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005676s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004994s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.000244s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000777s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000879s ]
+
+[ 2016-08-29T16:29:34+08:00 ] 127.0.0.1 /index.php/Home/Info/detail/pid/65
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001883s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.002829s ]
+NOTIC: [8] Undefined index: userin C:\guyuan\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.004240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009462s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0087s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=2 and  info_id=65 ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=2 and  info_id=65 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (65) )  [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000155s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000315s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: global_user C:\guyuan\guyuan\Runtime\Cache\Home\91c7f06e6b5e82d67e7fbee9e6c78672.php 第 42 行.
+SQL: SHOW COLUMNS FROM `5000_info_widget` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `5000_info_widget` WHERE ( wig_id=2 ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.028380s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004739s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004912s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000758s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000870s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005893s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004912s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.000259s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001053s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001158s ]
+
+[ 2016-08-29T16:30:44+08:00 ] 127.0.0.1 /index.php/Home/Info/detail/pid/65
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000876s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.000940s ]
+NOTIC: [8] Undefined index: userin C:\guyuan\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.002161s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004275s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0064s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=2 and  info_id=65 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=2 and  info_id=65 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (65) )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000217s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: global_user C:\guyuan\guyuan\Runtime\Cache\Home\91c7f06e6b5e82d67e7fbee9e6c78672.php 第 42 行.
+SQL: SHOW COLUMNS FROM `5000_info_widget` [ RunTime:0.0061s ]
+SQL: SELECT * FROM `5000_info_widget` WHERE ( wig_id=2 ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.025683s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004666s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004812s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000630s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005580s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004812s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.000254s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000846s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000953s ]
+
+[ 2016-08-29T16:32:02+08:00 ] 127.0.0.1 /index.php/Home/Info/detail/pid/65
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001380s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.003033s ]
+NOTIC: [8] Undefined index: userin C:\guyuan\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.005247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010035s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0074s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=2 and  info_id=65 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=2 and  info_id=65 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (65) )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000234s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: global_user C:\guyuan\guyuan\Runtime\Cache\Home\91c7f06e6b5e82d67e7fbee9e6c78672.php 第 42 行.
+SQL: SHOW COLUMNS FROM `5000_info_widget` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `5000_info_widget` WHERE ( wig_id=2 ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.027224s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004785s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004990s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000870s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000989s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006134s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004990s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.000249s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001185s ]
+
+[ 2016-08-29T16:35:11+08:00 ] 127.0.0.1 /index.php/Home/Info/detail/pid/65
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001565s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.001888s ]
+NOTIC: [8] Undefined index: userin C:\guyuan\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.003634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007440s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0071s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=2 and  info_id=65 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=2 and  info_id=65 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (65) )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000239s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: global_user C:\guyuan\guyuan\Runtime\Cache\Home\91c7f06e6b5e82d67e7fbee9e6c78672.php 第 42 行.
+SQL: SHOW COLUMNS FROM `5000_info_widget` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `5000_info_widget` WHERE ( wig_id=2 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=2 ) ORDER BY info_id desc LIMIT 5   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.040471s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006828s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001311s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001428s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008337s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006828s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.000253s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001153s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001263s ]
+
+[ 2016-08-29T16:37:05+08:00 ] 127.0.0.1 /index.php/Home/Info/detail/pid/65
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000882s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001069s ]
+INFO: Run Home\Behaviors\NavBehavior [ RunTime:0.002296s ]
+NOTIC: [8] Undefined index: userin C:\guyuan\guyuan\Home\API\UserAPI.class.php 第 73 行.
+INFO: Run Home\Behaviors\UserBehavior [ RunTime:0.003239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006965s ]
+SQL: SHOW COLUMNS FROM `5000_info` [ RunTime:0.0070s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `5000_info` WHERE ( info_type=2 and  info_id=65 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `5000_info` WHERE ( info_type=2 and  info_id=65 ) ORDER BY info_id desc LIMIT 0,5   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `5000_info_meta` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `5000_info_meta` WHERE ( info_id in (65) )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000243s ]
+SQL: SHOW COLUMNS FROM `5000_navbar` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `5000_navbar` WHERE ( nav_isshow=1 ) ORDER BY nav_index  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: global_user C:\guyuan\guyuan\Runtime\Cache\Home\91c7f06e6b5e82d67e7fbee9e6c78672.php 第 42 行.
+SQL: SHOW COLUMNS FROM `5000_info_widget` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `5000_info_widget` WHERE ( wig_id=2 ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.027692s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004597s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004836s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000483s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000614s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005492s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004836s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.000257s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000764s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000878s ]
+
