@@ -46,6 +46,7 @@
 
                 if (parseFloat(get_meta1)>0 && parseFloat(get_meta2)>0)
                 {
+
                     $("#meta_price1").html("￥"+"<del>"+get_meta1+"</del>");
                     $("#meta_price2").html("￥"+get_meta2);
                 }
@@ -64,11 +65,15 @@
             {
                 if ( parseInt(detail_data[i][3])==im_id && detail_data[i][1] == im_key)
                 {
-                    var im_relation=getMeta({$info.info_id}, detail_data[i][4], 0);
+                    //alert(im_id);
+                    var im_relation=getMeta({$info.info_id}, detail_data[i][3], 0);
+                    //alert(im_relation);
                     if (im_relation > 0)//要去判断im_id=im_relation的规格是否被选中
                     {
-                        if($(".ptype[im_id='"+im_relation.toString()+"']").hasclass("choseli"))
+
+                        if($(".ptype[im_id='"+im_relation.toString()+"']").hasClass("choseli"))
                         {
+
                             return detail_data[i][2];
                         }
                     }
@@ -97,8 +102,10 @@
         function getMeta(info_id,im_key,def_val) {
             for(var i=0;i<detail_data.length;i++)
             {
+
                 if (detail_data[i][0]==info_id && detail_data[i][1]==im_key && parseInt(detail_data[i][3])==0)
                 {
+
                     return detail_data[i][2];
                 }
             }
@@ -115,7 +122,7 @@
                     </div>
                     <div class="col-md-4">
                         <a href="#">
-                            <script>document.write("<img src='"+getMeta({$info.info_id},
+                            <script>document.write("<img class='pimg' src='"+getMeta({$info.info_id},
                             "pimg","","__PUBLIC__/prod/none.jpg")+"'style='width:200px;height:200px'/>");</script>
                         </a>
                     </div>
@@ -152,13 +159,51 @@
                             <script>document.write(getMetaList({$info.info_id},"ptype-addr","tpl_ptype"));</script>
                         </ul>
                         <p class="text-center list-inline pbtn">
-                            <button class="btn btn-warning"><span class="glyphicon glyphicon-shopping-cart">加入购物车</span></button>
+                            <button class="btn btn-warning" id="cmdAddToCart"><span class="glyphicon glyphicon-shopping-cart">加入购物车</span></button>
                             <button class="btn btn-danger">立即购买</button>
                         </p>
                     </div>
 
                 </div>
             </foreach>
+            <script>
+                $("#cmdAddToCart").click(function (e){
+                    var validate=true;
+                    $(".pmetalist").each(function () {
+                        if($(this).find(".choseli").length>0)
+                        {
+
+                        }
+                        else
+                        {
+                            validate=false;
+                        }
+
+
+                    })
+                    if (!validate)
+                    {
+                        alert("请选择规格与产地");
+                        return false;
+                    }
+                    var ex=e||event;
+                    var img=$(".pimg").clone();
+                    $(img).css({position:"fixed",width:"50px",height:"50px", top:ex.clientY,left:ex.clientX,'z-index':10000})
+                    $(this).parent().append(img);
+                    $(img).animate({
+                        top:$("#cart_set")[0].getBoundingClientRect().top,
+                        left:$("#cart_set")[0].getBoundingClientRect().left
+                    },"slow",function () {
+                        $(img).remove();
+                        var oldnum=$("#cart_num").html();
+                        if(oldnum=="")
+                                oldnum=1;
+                        else
+                                oldnum=parseInt(oldnum)+1;
+                        $("#cart_num").html(oldnum);
+                    })
+                })
+            </script>
             <ul class="nav nav-tabs">
                 <li role="presentation" class="active"><a href="#">商品介绍</a></li>
                 <li role="presentation" ><a href="#">规格包装</a></li>
