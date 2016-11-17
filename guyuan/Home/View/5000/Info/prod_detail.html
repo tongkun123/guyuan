@@ -169,10 +169,11 @@
             <script>
                 $("#cmdAddToCart").click(function (e){
                     var validate=true;
+                    var pmeta="";
                     $(".pmetalist").each(function () {
                         if($(this).find(".choseli").length>0)
                         {
-
+                            pmeta+=$(this).find(".choseli").attr("im_id");
                         }
                         else
                         {
@@ -185,6 +186,17 @@
                     {
                         alert("请选择规格与产地");
                         return false;
+                    }
+                    else
+                    {
+                        var post_data={
+                            pid:{$info.info_id},
+                            pmeta:pmeta
+                        };
+
+                        $.post("/Home/Cart/add_cart",post_data,function (result) {
+                            alert(result);
+                        })
                     }
                     var ex=e||event;
                     var img=$(".pimg").clone();

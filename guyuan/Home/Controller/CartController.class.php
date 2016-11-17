@@ -6,11 +6,11 @@ class CartController extends Controller {
         //echo "加入购物车";
         $cart=S(array(
                 'type'=>'memcache',
-                'host'=>'192.168.1.10',
+                'host'=>'127.0.0.1',
                 'port'=>'11211'
                 )
         );
-        $cart->username="tongkun";
+        exit("hello");
     }
 
 }
