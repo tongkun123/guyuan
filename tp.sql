@@ -1,7 +1,7 @@
 /*
 Navicat MySQL Data Transfer
 
-Source Server         : localhost_3306
+Source Server         : myDB
 Source Server Version : 50520
 Source Host           : localhost:3306
 Source Database       : tp
@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50520
 File Encoding         : 65001
 
-Date: 2016-08-29 17:08:28
+Date: 2016-11-21 17:14:21
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -95,7 +95,7 @@ CREATE TABLE `5000_info_meta` (
   `im_value` text,
   `im_pid` int(11) DEFAULT '0',
   PRIMARY KEY (`im_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=25 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=36 DEFAULT CHARSET=utf8;
 
 -- ----------------------------
 -- Records of 5000_info_meta
@@ -114,8 +114,18 @@ INSERT INTO `5000_info_meta` VALUES ('15', '65', 'views', '1200', '0');
 INSERT INTO `5000_info_meta` VALUES ('16', '65', 'price2', '360', '0');
 INSERT INTO `5000_info_meta` VALUES ('17', '65', 'ptype', '250g', '0');
 INSERT INTO `5000_info_meta` VALUES ('18', '65', 'ptype', '500g', '0');
-INSERT INTO `5000_info_meta` VALUES ('23', '65', 'price2', '105', '18');
-INSERT INTO `5000_info_meta` VALUES ('24', '65', 'price1', '50', '18');
+INSERT INTO `5000_info_meta` VALUES ('23', '65', 'price2', '500', '18');
+INSERT INTO `5000_info_meta` VALUES ('24', '65', 'price1', '600', '18');
+INSERT INTO `5000_info_meta` VALUES ('25', '65', 'ptype-addr', '安徽', '0');
+INSERT INTO `5000_info_meta` VALUES ('26', '65', 'ptype-addr', '青海', '0');
+INSERT INTO `5000_info_meta` VALUES ('27', '65', 'price1', '800', '26');
+INSERT INTO `5000_info_meta` VALUES ('28', '65', 'price2', '600', '26');
+INSERT INTO `5000_info_meta` VALUES ('29', '65', '27', '18', '0');
+INSERT INTO `5000_info_meta` VALUES ('30', '65', '28', '18', '0');
+INSERT INTO `5000_info_meta` VALUES ('32', '65', 'price1', '600', '25');
+INSERT INTO `5000_info_meta` VALUES ('33', '65', 'price2', '500', '25');
+INSERT INTO `5000_info_meta` VALUES ('34', '65', '32', '18', '0');
+INSERT INTO `5000_info_meta` VALUES ('35', '65', '33', '18', '0');
 
 -- ----------------------------
 -- Table structure for 5000_info_widget
