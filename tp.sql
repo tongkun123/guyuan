@@ -1,22 +1,22 @@
 /*
 Navicat MySQL Data Transfer
 
-Source Server         : myDB
-Source Server Version : 50520
+Source Server         : localhost_3306
+Source Server Version : 50617
 Source Host           : localhost:3306
 Source Database       : tp
 
 Target Server Type    : MYSQL
-Target Server Version : 50520
+Target Server Version : 50617
 File Encoding         : 65001
 
-Date: 2016-11-21 17:14:21
+Date: 2016-11-27 12:40:39
 */
 
 SET FOREIGN_KEY_CHECKS=0;
 
 -- ----------------------------
--- Table structure for 3000_users
+-- Table structure for `3000_users`
 -- ----------------------------
 DROP TABLE IF EXISTS `3000_users`;
 CREATE TABLE `3000_users` (
@@ -32,7 +32,7 @@ CREATE TABLE `3000_users` (
 INSERT INTO `3000_users` VALUES ('1', 'tongkun', '123');
 
 -- ----------------------------
--- Table structure for 5000_info
+-- Table structure for `5000_info`
 -- ----------------------------
 DROP TABLE IF EXISTS `5000_info`;
 CREATE TABLE `5000_info` (
@@ -81,11 +81,11 @@ INSERT INTO `5000_info` VALUES ('59', '中国现在有哪些值得骄傲的方�
 INSERT INTO `5000_info` VALUES ('61', '冰鲜三文鱼300g/盒', null, '当日分割 肉质肥腴 沁凉口感', null, null, '2');
 INSERT INTO `5000_info` VALUES ('62', '冻龙虾(加拿大生龙虾) 500g/只', null, '进口海鲜，新鲜美味', null, null, '2');
 INSERT INTO `5000_info` VALUES ('63', '冻银鳕鱼块 300g/片', null, '进口海鲜，新鲜美味', null, null, '2');
-INSERT INTO `5000_info` VALUES ('64', '法式七肋羊排770g/袋', null, '安全，新鲜 科尔沁大草原 温和的气温 好牧场自然好羊肉', null, null, '2');
+INSERT INTO `5000_info` VALUES ('64', '法式七肋羊排770g/袋', null, '安全，新鲜 科尔沁大草原 温和的气温 好牧场自然好羊肉', '测试内容', null, '2');
 INSERT INTO `5000_info` VALUES ('65', '澳洲M9级 谷饲眼肉牛排', null, '原味牛排 丝丝营养 天然口感', '这是澳洲和牛的牛肉分类等级\r\n澳洲和牛有别于日本牛肉分A1至A5的分类法（最高级为A5），\r\n以肉色深浅和脂肪分布来划分成M1至M12级（主要为M4至M12级），\r\n越高级的和牛，脂肪和肉的比率越高，而且分布更平均，M12的肉与脂肪比例高达50%，\r\n只有少于5%的和牛可达到此级数；\r\n市面多数的澳洲和牛都属M8至10级（相等于日本的 A3级），脂肪比率约达30-35%。 \r\n澳洲牛的肉味较淡，M9级也只能到日本的A3级水平。\r\n十多年前，澳洲农民将日本的母牛带到澳洲来繁殖，并且引入美国的安格斯牛来配种，(也有100%纯种血统的和牛)，并以日本的饲养技术来养殖，培养出「澳洲和牛」，其美味远超M9级牛肉，所以在M9以上又加多了M10、M11和M12级，而M12级牛肉相等于日本的A5级牛肉。', null, '2');
 
 -- ----------------------------
--- Table structure for 5000_info_meta
+-- Table structure for `5000_info_meta`
 -- ----------------------------
 DROP TABLE IF EXISTS `5000_info_meta`;
 CREATE TABLE `5000_info_meta` (
@@ -95,7 +95,7 @@ CREATE TABLE `5000_info_meta` (
   `im_value` text,
   `im_pid` int(11) DEFAULT '0',
   PRIMARY KEY (`im_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=36 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=53 DEFAULT CHARSET=utf8;
 
 -- ----------------------------
 -- Records of 5000_info_meta
@@ -126,9 +126,26 @@ INSERT INTO `5000_info_meta` VALUES ('32', '65', 'price1', '600', '25');
 INSERT INTO `5000_info_meta` VALUES ('33', '65', 'price2', '500', '25');
 INSERT INTO `5000_info_meta` VALUES ('34', '65', '32', '18', '0');
 INSERT INTO `5000_info_meta` VALUES ('35', '65', '33', '18', '0');
+INSERT INTO `5000_info_meta` VALUES ('36', '64', 'price1', '420', '0');
+INSERT INTO `5000_info_meta` VALUES ('37', '64', 'views', '1200', '0');
+INSERT INTO `5000_info_meta` VALUES ('38', '64', 'price2', '360', '0');
+INSERT INTO `5000_info_meta` VALUES ('39', '64', 'ptype', '250g', '0');
+INSERT INTO `5000_info_meta` VALUES ('40', '64', 'ptype', '500g', '0');
+INSERT INTO `5000_info_meta` VALUES ('41', '64', 'price2', '500', '40');
+INSERT INTO `5000_info_meta` VALUES ('42', '64', 'price1', '600', '40');
+INSERT INTO `5000_info_meta` VALUES ('43', '64', 'ptype-addr', '安徽', '0');
+INSERT INTO `5000_info_meta` VALUES ('44', '64', 'ptype-addr', '青海', '0');
+INSERT INTO `5000_info_meta` VALUES ('45', '64', 'price1', '800', '44');
+INSERT INTO `5000_info_meta` VALUES ('46', '64', 'price2', '600', '44');
+INSERT INTO `5000_info_meta` VALUES ('47', '64', '45', '40', '0');
+INSERT INTO `5000_info_meta` VALUES ('48', '64', '46', '40', '0');
+INSERT INTO `5000_info_meta` VALUES ('49', '64', 'price1', '600', '43');
+INSERT INTO `5000_info_meta` VALUES ('50', '64', 'price2', '500', '43');
+INSERT INTO `5000_info_meta` VALUES ('51', '64', '49', '40', '0');
+INSERT INTO `5000_info_meta` VALUES ('52', '64', '50', '40', '0');
 
 -- ----------------------------
--- Table structure for 5000_info_widget
+-- Table structure for `5000_info_widget`
 -- ----------------------------
 DROP TABLE IF EXISTS `5000_info_widget`;
 CREATE TABLE `5000_info_widget` (
@@ -146,7 +163,7 @@ INSERT INTO `5000_info_widget` VALUES ('1', '最新发布', 'W:list', 'table(\'5
 INSERT INTO `5000_info_widget` VALUES ('2', '最新商品', 'W:list', 'table(\'5000_info\')->where(\'info_type=2\')->order(\'info_id desc\')->limit(5)->select()');
 
 -- ----------------------------
--- Table structure for 5000_navbar
+-- Table structure for `5000_navbar`
 -- ----------------------------
 DROP TABLE IF EXISTS `5000_navbar`;
 CREATE TABLE `5000_navbar` (
@@ -164,10 +181,72 @@ CREATE TABLE `5000_navbar` (
 INSERT INTO `5000_navbar` VALUES ('1', '新闻', '/index.php/Home/Info/?type=1', '1', '');
 INSERT INTO `5000_navbar` VALUES ('2', '商品', '/index.php/Home/Info/?type=2', '2', '');
 INSERT INTO `5000_navbar` VALUES ('3', '论坛', null, '3', '');
-INSERT INTO `5000_navbar` VALUES ('4', 'test', null, '4', '\0');
+INSERT INTO `5000_navbar` VALUES ('4', 'test', null, '4', '');
 
 -- ----------------------------
--- Table structure for 5000_user
+-- Table structure for `5000_order_detail`
+-- ----------------------------
+DROP TABLE IF EXISTS `5000_order_detail`;
+CREATE TABLE `5000_order_detail` (
+  `detail_id` int(11) NOT NULL AUTO_INCREMENT,
+  `order_id` int(11) NOT NULL,
+  `prod_id` int(11) NOT NULL DEFAULT '1',
+  `prod_num` int(11) NOT NULL DEFAULT '1',
+  `prod_price` decimal(10,2) NOT NULL,
+  PRIMARY KEY (`detail_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=31 DEFAULT CHARSET=utf8;
+
+-- ----------------------------
+-- Records of 5000_order_detail
+-- ----------------------------
+INSERT INTO `5000_order_detail` VALUES ('13', '15', '65', '1', '360.00');
+INSERT INTO `5000_order_detail` VALUES ('14', '15', '64', '1', '360.00');
+INSERT INTO `5000_order_detail` VALUES ('15', '16', '65', '1', '360.00');
+INSERT INTO `5000_order_detail` VALUES ('16', '16', '64', '1', '360.00');
+INSERT INTO `5000_order_detail` VALUES ('17', '17', '65', '1', '360.00');
+INSERT INTO `5000_order_detail` VALUES ('18', '17', '64', '1', '360.00');
+INSERT INTO `5000_order_detail` VALUES ('19', '18', '65', '1', '360.00');
+INSERT INTO `5000_order_detail` VALUES ('20', '18', '64', '1', '360.00');
+INSERT INTO `5000_order_detail` VALUES ('21', '19', '65', '1', '600.00');
+INSERT INTO `5000_order_detail` VALUES ('22', '19', '64', '1', '500.00');
+INSERT INTO `5000_order_detail` VALUES ('23', '20', '65', '1', '600.00');
+INSERT INTO `5000_order_detail` VALUES ('24', '20', '64', '1', '500.00');
+INSERT INTO `5000_order_detail` VALUES ('25', '21', '65', '1', '360.00');
+INSERT INTO `5000_order_detail` VALUES ('26', '21', '64', '1', '360.00');
+INSERT INTO `5000_order_detail` VALUES ('27', '22', '65', '1', '360.00');
+INSERT INTO `5000_order_detail` VALUES ('28', '22', '64', '1', '360.00');
+INSERT INTO `5000_order_detail` VALUES ('29', '23', '65', '1', '360.00');
+INSERT INTO `5000_order_detail` VALUES ('30', '23', '64', '1', '360.00');
+
+-- ----------------------------
+-- Table structure for `5000_order_main`
+-- ----------------------------
+DROP TABLE IF EXISTS `5000_order_main`;
+CREATE TABLE `5000_order_main` (
+  `order_id` int(11) NOT NULL AUTO_INCREMENT,
+  `order_no` varchar(50) DEFAULT NULL COMMENT '订单号',
+  `order_price` decimal(10,2) NOT NULL COMMENT '订单总价',
+  `user_id` int(11) NOT NULL,
+  `order_state` tinyint(4) NOT NULL DEFAULT '0' COMMENT '0提交1已经支付2已经取消3正在发货',
+  `order_time` datetime NOT NULL,
+  PRIMARY KEY (`order_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=24 DEFAULT CHARSET=utf8;
+
+-- ----------------------------
+-- Records of 5000_order_main
+-- ----------------------------
+INSERT INTO `5000_order_main` VALUES ('15', '201611242515', '720.00', '25', '0', '2016-11-24 06:44:52');
+INSERT INTO `5000_order_main` VALUES ('16', '201611242516', '720.00', '25', '0', '2016-11-24 06:57:12');
+INSERT INTO `5000_order_main` VALUES ('17', '201611242517', '720.00', '25', '0', '2016-11-24 06:58:32');
+INSERT INTO `5000_order_main` VALUES ('18', '201611242518', '720.00', '25', '0', '2016-11-24 07:11:48');
+INSERT INTO `5000_order_main` VALUES ('19', '201611252519', '1100.00', '25', '0', '2016-11-25 11:04:48');
+INSERT INTO `5000_order_main` VALUES ('20', '201611252520', '1100.00', '25', '0', '2016-11-25 11:26:35');
+INSERT INTO `5000_order_main` VALUES ('21', '201611252521', '720.00', '25', '0', '2016-11-25 03:53:03');
+INSERT INTO `5000_order_main` VALUES ('22', '201611252522', '720.00', '25', '0', '2016-11-25 03:54:37');
+INSERT INTO `5000_order_main` VALUES ('23', '201611252523', '720.00', '25', '0', '2016-11-25 03:56:26');
+
+-- ----------------------------
+-- Table structure for `5000_user`
 -- ----------------------------
 DROP TABLE IF EXISTS `5000_user`;
 CREATE TABLE `5000_user` (
@@ -191,7 +270,7 @@ INSERT INTO `5000_user` VALUES ('23', 'lisi004', '$2a$08$Fe7Rrb8CnG5PqKsNLo6/DOf
 INSERT INTO `5000_user` VALUES ('25', 'tongkun', '$2a$08$AA4ucRwX8AXjo4LK/jHvUegws3nHPGnA54dhB.B0JPfEinJ2C27DG', null);
 
 -- ----------------------------
--- Table structure for 5000_user_meta
+-- Table structure for `5000_user_meta`
 -- ----------------------------
 DROP TABLE IF EXISTS `5000_user_meta`;
 CREATE TABLE `5000_user_meta` (
@@ -214,7 +293,123 @@ INSERT INTO `5000_user_meta` VALUES ('6', '23', 'reg_dae', '2016-07-27 14:08:26'
 INSERT INTO `5000_user_meta` VALUES ('7', '25', 'reg_dae', '2016-07-27 16:36:34');
 
 -- ----------------------------
--- Procedure structure for initdb
+-- Table structure for `acc_act`
+-- ----------------------------
+DROP TABLE IF EXISTS `acc_act`;
+CREATE TABLE `acc_act` (
+  `aid` int(11) NOT NULL AUTO_INCREMENT,
+  `aname` varchar(45) NOT NULL,
+  `cid` int(11) NOT NULL,
+  PRIMARY KEY (`aid`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- ----------------------------
+-- Records of acc_act
+-- ----------------------------
+
+-- ----------------------------
+-- Table structure for `acc_ctrl`
+-- ----------------------------
+DROP TABLE IF EXISTS `acc_ctrl`;
+CREATE TABLE `acc_ctrl` (
+  `cid` int(11) NOT NULL AUTO_INCREMENT,
+  `cname` varchar(45) NOT NULL,
+  PRIMARY KEY (`cid`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- ----------------------------
+-- Records of acc_ctrl
+-- ----------------------------
+
+-- ----------------------------
+-- Table structure for `node_action`
+-- ----------------------------
+DROP TABLE IF EXISTS `node_action`;
+CREATE TABLE `node_action` (
+  `node_id` int(11) NOT NULL AUTO_INCREMENT,
+  `a_id` int(4) DEFAULT NULL,
+  PRIMARY KEY (`node_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- ----------------------------
+-- Records of node_action
+-- ----------------------------
+
+-- ----------------------------
+-- Table structure for `roles`
+-- ----------------------------
+DROP TABLE IF EXISTS `roles`;
+CREATE TABLE `roles` (
+  `role_id` int(4) NOT NULL,
+  `role_name` varchar(45) NOT NULL,
+  PRIMARY KEY (`role_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- ----------------------------
+-- Records of roles
+-- ----------------------------
+
+-- ----------------------------
+-- Table structure for `useraction`
+-- ----------------------------
+DROP TABLE IF EXISTS `useraction`;
+CREATE TABLE `useraction` (
+  `user_id` int(11) NOT NULL AUTO_INCREMENT,
+  `a_id` int(4) NOT NULL,
+  PRIMARY KEY (`user_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- ----------------------------
+-- Records of useraction
+-- ----------------------------
+
+-- ----------------------------
+-- Table structure for `usernode`
+-- ----------------------------
+DROP TABLE IF EXISTS `usernode`;
+CREATE TABLE `usernode` (
+  `node_id` int(11) NOT NULL AUTO_INCREMENT,
+  `node_name` varchar(45) NOT NULL,
+  `node_pid` int(4) NOT NULL,
+  `entry_aid` int(4) NOT NULL,
+  PRIMARY KEY (`node_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- ----------------------------
+-- Records of usernode
+-- ----------------------------
+
+-- ----------------------------
+-- Table structure for `users`
+-- ----------------------------
+DROP TABLE IF EXISTS `users`;
+CREATE TABLE `users` (
+  `user_id` int(11) NOT NULL AUTO_INCREMENT,
+  `user_name` varchar(45) NOT NULL,
+  PRIMARY KEY (`user_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- ----------------------------
+-- Records of users
+-- ----------------------------
+
+-- ----------------------------
+-- Table structure for `user_role`
+-- ----------------------------
+DROP TABLE IF EXISTS `user_role`;
+CREATE TABLE `user_role` (
+  `user_id` int(11) NOT NULL,
+  `role_id` int(4) NOT NULL,
+  `user_rolecol` varchar(45) NOT NULL,
+  PRIMARY KEY (`user_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- ----------------------------
+-- Records of user_role
+-- ----------------------------
+
+-- ----------------------------
+-- Procedure structure for `initdb`
 -- ----------------------------
 DROP PROCEDURE IF EXISTS `initdb`;
 DELIMITER ;;

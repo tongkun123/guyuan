@@ -1,0 +1,31 @@
+<extend name="5000/Index/Base" />
+<block name="customer">
+    <div class="container">
+        <table class="table table-bordered">
+            <tr>
+                <th colspan="2" style="background: #ddd">订单详情</th>
+            </tr>
+            <tr>
+                <td>订单号</td>
+                <td>{$order_main.order_no}</td>
+            </tr>
+            <tr>
+                <td>下单时间</td>
+                <td>{$order_main.order_time}</td>
+            </tr>
+            <tr>
+                <td>订单总价</td>
+                <td>{$order_main.order_price}</td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <form action="/Home/Pay/submit" method="post">
+                        <input type="hidden" name="order_no" value="{$order_main.order_no}">
+                        <button class="btn btn-danger">付款</button>
+                    </form>
+
+                </td>
+            </tr>
+        </table>
+    </div>
+</block>

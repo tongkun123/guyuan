@@ -1,15 +1,9 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Administrator
- * Date: 2016/7/26
- * Time: 16:22
- */
-if ("abc")
-{
-    echo "true";
-}
-else
-{
-    echo "false";
-}
+
+
+<script>
+    var str="a";
+    var patt1 = new RegExp("^[0-9]+$");
+    var result = patt1.test(str);
+    document.write("Result: " + result);
+</script>
+

@@ -43,9 +43,6 @@
                 var im_id=$(this).attr("im_id");//属性主键ID
                 var get_meta1=getMetaByPID(im_id, "price1");//市场价
                 var get_meta2=getMetaByPID(im_id, "price2");//优惠价
-//                alert(im_id);
-//                alert(get_meta1);
-//                alert(get_meta2);
 
                 if (parseFloat(get_meta1)>0 && parseFloat(get_meta2)>0)
                 {
@@ -70,11 +67,8 @@
                 //先比较数据im_key与im_pid,比较成功取出im_id
                 if ( parseInt(detail_data[i][3])==im_id && detail_data[i][1] == im_key)
                 {
-//                    alert(im_id);
-//                    alert(im_key);
                     //用im_id做为im_key取出im_value
                     var im_relation=getMeta({$info.info_id}, detail_data[i][4], 0);
-//                    alert(im_relation);
                     if (im_relation > 0)//要去判断im_id=im_relation的规格是否被选中
                     {
 
@@ -179,6 +173,7 @@
 
                 }
                 $("#cmdAddToCart").click(function (e){
+                    var btn=$(this);
                     var validate=true;
                     var pmeta="";
                     $(".pmetalist").each(function () {
@@ -190,8 +185,6 @@
                         {
                             validate=false;
                         }
-
-
                     })
                     if (!validate)
                     {
@@ -203,41 +196,54 @@
                         var post_data={
                             pid:{$info.info_id},
                             pmeta:pmeta
-                        };
+                         };
 
 
-                        $.post("/Home/Cart/add_cart",post_data,function (result) {
-
+                        $.post("/Home/Cart/add_cart",post_data,function (result)
+                        {
                             if(trim(result)=="-1")
                             {
                                 self.location="/Home/login?from="+encodeURIComponent(self.location);
                             }
                             else
                             {
-                                alert(pid);
-                                alert(pmeta);
-                                alert(result);
+                                if(trim(result)=="OK")
+                                {
+                                    addToCart_Animate(btn,e);
+                                }
+                                else
+                                {
+                                    alert(result);
+                                }
                             }
                         })
                     }
                     return;
+
+                })
+                function addToCart_Animate(obj,e) {
                     var ex=e||event;
                     var img=$(".pimg").clone();
                     $(img).css({position:"fixed",width:"50px",height:"50px", top:ex.clientY,left:ex.clientX,'z-index':10000})
-                    $(this).parent().append(img);
+                    $(obj).parent().append(img);
                     $(img).animate({
                         top:$("#cart_set")[0].getBoundingClientRect().top,
                         left:$("#cart_set")[0].getBoundingClientRect().left
                     },"slow",function () {
                         $(img).remove();
-                        var oldnum=$("#cart_num").html();
-                        if(oldnum=="")
-                                oldnum=1;
-                        else
-                                oldnum=parseInt(oldnum)+1;
-                        $("#cart_num").html(oldnum);
+                        //一下代码准备重做
+//                        var oldnum=$("#cart_num").html();
+//                        if(oldnum=="")
+//                            oldnum=1;
+//                        else
+//                            oldnum=parseInt(oldnum)+1;
+//                        $("#cart_num").html(oldnum);
+                        var cart_script=$("#cart_script");
+                        var cart_script_parent=$("#cart_script").parent();
+                        $("#cart_script").remove();
+                        $(cart_script_parent).append(cart_script);
                     })
-                })
+                }
             </script>
             <ul class="nav nav-tabs">
                 <li role="presentation" class="active"><a href="#">商品介绍</a></li>

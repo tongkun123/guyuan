@@ -1,0 +1,114 @@
+<extend name="5000/Index/Base" />
+<block name="customer">
+
+    <script type="text/javascript">
+        var prod_list=[];
+        var prod_meta_list=[];
+        var prod_cart=[];
+        $(document).ready(function () {
+            $("#cmdOrder").click(function () {
+                $(this).html("正在提交");
+                $(this).prop("disabled",true);
+                $.get("/Home/Order/",null,function (result) {
+                    var patt1 = new RegExp("^[0-9]+$");
+                    if(patt1.test(result))
+                    {
+//                        alert("订单插入成功");
+                        //订单插入成功，清空购物车,跳转付款页面
+//                        alert(result);
+                        self.location="/Home/Order/loadorder?order_no="+result;
+                    }
+                    else
+                    {
+                        alert("订单插入失败");
+                    }
+
+                })
+            })
+        })
+    </script>
+
+    <div class="container">
+
+        <table class="table table-bordered">
+            <tr>
+                <td class="text-right">
+                    <button autocomplete="off"  class="btn btn-danger" id="cmdOrder">结算</button>
+                </td>
+            </tr>
+
+        </table>
+    </div>
+
+    <script type="text/html" id="cartTpl">
+        <table class="table table-bordered">
+            <tr>
+                <td style="width: 10%">
+                    <img src="{pimg}" style="width: 60px; height: 60px"/>
+                </td>
+                <td style="width: 70%">
+                    <p><a href="/Home/Info/detail?pid={info_id}">{info_title}</a> </p>
+                    <p style="color: gray"><span>原价：</span><span>{price1}</span></p>
+                </td>
+                <td>
+                    {price2}
+                </td>
+                <td>
+                    <a href="#" onClick="del_cart({info_id})">删除</a>
+                </td>
+            </tr>
+        </table>
+    </script>
+    <script src="/Home/Cart/cart_num?show"></script>
+    <script>
+        function del_cart(info_id)
+        {
+            self.location="/Home/Cart/del_cart?pid="+info_id+"&from="+encodeURIComponent(self.location);
+        }
+        function replaceTpl(obj,html)//循环josn对象做统一替换
+        {
+            for(var key in obj)
+            {
+                html=html.replace(eval("/{"+key+"}/g"),obj[key]);
+            }
+            return html;
+        }
+        function replaceTplMeta(html,info_id)
+        {
+            for(var i=0;i<prod_meta_list.length;i++)
+            {
+                if(prod_meta_list[i]["info_id"]==info_id&&prod_meta_list[i]["im_key"]=="pimg")
+                {
+                    html=html.replace("{"+prod_meta_list[i]["im_key"]+"}",prod_meta_list[i]["im_value"]);
+                }
+            }
+            return html;
+        }
+        function replaceTplPrice(html,info_id)
+        {
+            for(var key in prod_cart)
+            {
+                if(key==info_id)
+                {
+                    for(var key2 in prod_cart[key])
+                    {
+                        html=html.replace("{"+key2+"}",prod_cart[key][key2]);
+                    }
+                }
+            }
+            return html;
+        }
+
+        if(prod_list.length>0)
+        {
+            var tpl_html=$("#cartTpl").html();
+            for(i=0;i<prod_list.length;i++)
+            {
+                var getHtml=replaceTpl(prod_list[i],tpl_html);
+                getHtml=replaceTplMeta(getHtml,prod_list[i]["info_id"]);
+                getHtml=replaceTplPrice(getHtml,prod_list[i]["info_id"]);
+                $(".container").prepend(getHtml);
+            }
+        }
+    </script>
+</block>
